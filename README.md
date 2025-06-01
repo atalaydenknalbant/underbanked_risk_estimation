@@ -36,7 +36,7 @@ python explain.py --data istanbul_synthetic_data_v22.csv --model lgbm_full.jobli
 
 ## Reproducibility
 
-* Every random process is anchored by `config.SEED`.
+* Every random process is anchored by `config.SEED` with a seed of 42.
 * The synthetic dataset is deterministic; no personal data is included.
 * Pipelines save the full preprocessing graph, ensuring environment portability.
 
