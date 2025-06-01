@@ -1,4 +1,4 @@
-# Credit Scoring for the Underbanked – Code Release
+# Credit Risk Estimation with Non-Financial Features: Evidence from a Synthetic Istanbul Dataset – Code Release
 
 This repository contains a fully reproducible pipeline that accompanies the paper *Credit Risk Estimation with Non-Financial Features: Evidence from a Synthetic Istanbul Dataset* (ArXiv pre‑print, 2025).  The code trains and evaluates gradient‑boosting and logistic models on a 100 000‑row **synthetic** Istanbul dataset that purposefully *omits* all bureau‑style variables.  
 
